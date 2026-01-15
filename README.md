@@ -1,28 +1,28 @@
 # 👋 Hello, I'm MD Arham Tabib
 
-### 🌟 Machine Learning Enthusiast | 🕸️ Full-Stack Web Developer | 🔬 Researcher | 🔧 Embedded Systems Explorer  
+### 🌟 Machine Learning Enthusiast | 🕸️ Full-Stack Web Developer | 🔬 Researcher | 🔧 Embedded Systems Explorer
 
 ---
 
-## 🧭 About Me  
-I'm a passionate technologist deeply interested in building intelligent systems and beautiful, functional web applications. I explore everything from data science and IoT to natural sciences and applied research. Currently, I'm diving into smart agriculture, automated systems, and full-stack development.
+## 🧭 About me
+I'm a passionate technologist building intelligent systems and beautiful, functional web applications. I explore data science, IoT, and applied research—currently diving into smart agriculture, automated systems, and full-stack development.
 
 ---
 
-## 📫 Contact Me  
+## 📫 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arham-tabib-85336533b/)
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Skills & technologies
 
-### 💻 Languages  
+### 💻 Languages
 `Python` `JavaScript` `C` `C++` `Java` `PHP` `SQL` `Dart` `HTML5` `CSS3`
 
-### 🧰 Frameworks & Libraries  
+### 🧰 Frameworks & libraries
 `Flask` `Django` `TensorFlow` `PyTorch` `NumPy` `Pandas` `Matplotlib` `Firebase` `Flutter` `Bootstrap`
 
-### 🛠️ Tools & Platforms  
+### 🛠️ Tools & platforms
 `Arduino` `Jupyter` `Git/GitHub` `Figma` `MySQL` `VS Code` `Heroku` `Render`
 
 <p align="left">
@@ -51,44 +51,44 @@ I'm a passionate technologist deeply interested in building intelligent systems 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabib-arham&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tabib-arham&show_icons=true&count_private=true&theme=default" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-arham&langs_count=20&layout=compact&theme=default" alt="Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-arham&langs_count=20&layout=compact&theme=default" alt="Languages Used"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabib-arham&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabib-arham&theme=default" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tabib-arham&margin-w=10&theme=gruvbox" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tabib-arham&margin-w=10&theme=gruvbox" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabib-arham&radius=16&theme=react&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabib-arham&radius=16&theme=react&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned projects
 
-- 🔬 **[jujube_bruise_predictor](https://github.com/tabib-arham/jujube_bruise_predictor)** – A Flask-based web app using ML to detect bruises on fruit  
-- 💧 **Smart Irrigation System (IoT)** – Coming soon  
-- 📊 **Capacitor Monitoring Lab Report** – Bridging electronics & data science  
+- 🔬 **[jujube_bruise_predictor](https://github.com/tabib-arham/jujube_bruise_predictor)** — Flask-based web app using ML to detect bruises on fruit  
+- 💧 **Smart Irrigation System (IoT)** — Coming soon  
+- 📊 **Capacitor Monitoring Lab Report** — Bridging electronics & data science  
 
 ---
 
-## 🔢 Visitor Counter
+## 🔢 Visitor counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/tabib-arham/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/tabib-arham/count.svg" alt="Visitor Count"/>
 </p>
