@@ -14,6 +14,7 @@ I explore **Data Science**, **IoT**, and **Applied Research**—currently diving
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arham-tabib-85336533b/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tabib-arham)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tabib.arham)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Tabib?ev=hdr_xprf)
 
 ---
 
@@ -28,38 +29,14 @@ I explore **Data Science**, **IoT**, and **Applied Research**—currently diving
 ### 🛠️ Tools & Platforms
 `Arduino` `Jupyter` `Git/GitHub` `Figma` `MySQL` `VS Code` `Heroku` `Render`
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=tabib-arham&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-tabib-c1nhkvvrq-md-arham-tabibs-projects.vercel.app/api?username=tabib-arham&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=tabib-arham&layout=compact&theme=radical" alt="Languages Used"/>
+  <img src="https://github-readme-stats-tabib-c1nhkvvrq-md-arham-tabibs-projects.vercel.app/api/top-langs/?username=tabib-arham&layout=compact&theme=radical" alt="Languages Used"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabib-arham&theme=radical" alt="GitHub Streak"/>
 </p>
