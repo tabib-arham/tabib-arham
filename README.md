@@ -4,28 +4,30 @@
 
 ---
 
-## 🧭 About me
-I'm a passionate technologist building intelligent systems and beautiful, functional web applications. I explore data science, IoT, and applied research—currently diving into smart agriculture, automated systems, and full-stack development.
+## 🧭 About Me
+I'm a passionate technologist building intelligent systems and beautiful, functional web applications.  
+I explore **Data Science**, **IoT**, and **Applied Research**—currently diving into **Smart Agriculture**, **Automated Systems**, and **Full-Stack Development**.
 
 ---
 
-## 📫 Contact me
+## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arham-tabib-85336533b/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tabib-arham)
 
 ---
 
-## 🧠 Skills & technologies
+## 🧠 Skills & Technologies
 
 ### 💻 Languages
 `Python` `JavaScript` `C` `C++` `Java` `PHP` `SQL` `Dart` `HTML5` `CSS3`
 
-### 🧰 Frameworks & libraries
+### 🧰 Frameworks & Libraries
 `Flask` `Django` `TensorFlow` `PyTorch` `NumPy` `Pandas` `Matplotlib` `Firebase` `Flutter` `Bootstrap`
 
-### 🛠️ Tools & platforms
+### 🛠️ Tools & Platforms
 `Arduino` `Jupyter` `Git/GitHub` `Figma` `MySQL` `VS Code` `Heroku` `Render`
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
@@ -51,35 +53,35 @@ I'm a passionate technologist building intelligent systems and beautiful, functi
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabib-arham&show_icons=true&count_private=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tabib-arham&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-arham&langs_count=20&layout=compact&theme=default" alt="Languages Used"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-arham&langs_count=10&layout=compact&theme=radical" alt="Languages Used"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabib-arham&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabib-arham&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 GitHub trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tabib-arham&margin-w=10&theme=gruvbox" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tabib-arham&margin-w=10&theme=darkhub" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📈 Contribution graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabib-arham&radius=16&theme=react&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabib-arham&radius=16&theme=github-compact&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 📌 Pinned projects
+## 📌 Pinned Projects
 
 - 🔬 **[jujube_bruise_predictor](https://github.com/tabib-arham/jujube_bruise_predictor)** — Flask-based web app using ML to detect bruises on fruit  
 - 💧 **Smart Irrigation System (IoT)** — Coming soon  
@@ -87,7 +89,7 @@ I'm a passionate technologist building intelligent systems and beautiful, functi
 
 ---
 
-## 🔢 Visitor counter
+## 🔢 Visitor Counter
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/tabib-arham/count.svg" alt="Visitor Count"/>
