@@ -13,6 +13,7 @@ I explore **Data Science**, **IoT**, and **Applied Research**—currently diving
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arham-tabib-85336533b/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tabib-arham)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tabib.arham)
 
 ---
 
@@ -56,9 +57,9 @@ I explore **Data Science**, **IoT**, and **Applied Research**—currently diving
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabib-arham&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=tabib-arham&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-arham&langs_count=10&layout=compact&theme=radical" alt="Languages Used"/>
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=tabib-arham&layout=compact&theme=radical" alt="Languages Used"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabib-arham&theme=radical" alt="GitHub Streak"/>
 </p>
@@ -68,7 +69,7 @@ I explore **Data Science**, **IoT**, and **Applied Research**—currently diving
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tabib-arham&margin-w=10&theme=darkhub" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tabib-arham&theme=darkhub&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -76,7 +77,7 @@ I explore **Data Science**, **IoT**, and **Applied Research**—currently diving
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabib-arham&radius=16&theme=github-compact&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabib-arham&theme=github-compact&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -92,5 +93,5 @@ I explore **Data Science**, **IoT**, and **Applied Research**—currently diving
 ## 🔢 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/tabib-arham/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=tabib-arham&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
