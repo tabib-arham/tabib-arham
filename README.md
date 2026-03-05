@@ -2,51 +2,49 @@
 
 # 👋 Hi, I'm MD Arham Tabib
 
-🎯 **Machine Learning Enthusiast | Full-Stack Developer | Researcher | IoT & Embedded Systems Explorer**
+### 🌟 Machine Learning Enthusiast | 🕸️ Full-Stack Web Developer | 🔬 Researcher | 🔧 Embedded Systems Explorer
 
 ---
 
-## 🧠 About Me
+## 🧭 About Me
 
-I am **MD Arham Tabib**, a passionate **Machine Learning enthusiast, researcher, and full-stack developer**.  
-I enjoy building **intelligent systems, scalable web applications, and smart IoT solutions** that solve real-world problems.
-
-My work focuses on combining **Artificial Intelligence, Data Science, and Embedded Systems** to create innovative and practical solutions.
+I'm a passionate technologist building intelligent systems and scalable web applications.
+I explore **Machine Learning, Data Science, IoT, and Applied Research** to solve real-world problems.
 
 Currently exploring:
 
-- 🤖 Machine Learning & Deep Learning  
-- 🌾 Smart Agriculture Systems  
-- 🌐 Full-Stack Web Development  
-- 🔌 IoT & Embedded Systems  
-- 📊 Data Science & Automation  
+* 🤖 Machine Learning & Deep Learning
+* 🌾 Smart Agriculture Systems
+* 🌐 Full-Stack Web Development
+* 🔌 IoT & Embedded Systems
+* 📊 Data Science & Automation
 
 ---
 
-# 📚 Research Interests
+## 📚 Research Interests
 
-- 🧠 Machine Learning & Deep Learning  
-- 🧩 Computer Vision  
-- 🌾 Smart Agriculture & Precision Farming  
-- 🔍 Applied Artificial Intelligence  
-- 📡 IoT & Intelligent Systems  
-
----
-
-# 💻 Programming Skills
-
-| Category | Technologies |
-|--------|-------------|
-| **Languages** | Python, JavaScript, C, C++, Java, PHP, SQL, Dart |
-| **Web Development** | HTML5, CSS3, Bootstrap |
-| **Machine Learning** | TensorFlow, PyTorch, NumPy, Pandas, Matplotlib |
-| **Frameworks** | Flask, Django, Flutter |
-| **Tools** | Git, GitHub, Jupyter Notebook, VS Code, Figma |
-| **Platforms** | Arduino, Firebase, MySQL, Render, Heroku |
+* 🧠 Machine Learning & Deep Learning
+* 🧩 Computer Vision
+* 🌾 Smart Agriculture & Precision Farming
+* 🔍 Applied Artificial Intelligence
+* 📡 IoT & Intelligent Systems
 
 ---
 
-# 🔗 Connect With Me
+## 💻 Programming Skills
+
+| Category             | Technologies                                     |
+| -------------------- | ------------------------------------------------ |
+| **Languages**        | Python, JavaScript, C, C++, Java, PHP, SQL, Dart |
+| **Web Development**  | HTML5, CSS3, Bootstrap                           |
+| **Machine Learning** | TensorFlow, PyTorch, NumPy, Pandas, Matplotlib   |
+| **Frameworks**       | Flask, Django, Flutter                           |
+| **Tools**            | Git, GitHub, Jupyter Notebook, VS Code, Figma    |
+| **Platforms**        | Arduino, Firebase, MySQL, Render, Heroku         |
+
+---
+
+## 📫 Connect with Me
 
 <p align="left">
 
@@ -70,7 +68,7 @@ Currently exploring:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -86,7 +84,7 @@ Currently exploring:
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=tabib-arham&theme=darkhub&margin-w=10"/>
@@ -94,7 +92,7 @@ Currently exploring:
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabib-arham&theme=github-compact&area=true"/>
@@ -102,16 +100,18 @@ Currently exploring:
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 ### 🔬 jujube_bruise_predictor
-Flask-based machine learning web application that detects bruises on fruits using computer vision.
+
+Flask-based machine learning web application that detects bruises on fruit using computer vision.
 
 🔗 https://github.com/tabib-arham/jujube_bruise_predictor
 
 ---
 
 ### 💧 Smart Irrigation System (IoT)
+
 An intelligent irrigation system using IoT sensors and automation to optimize water usage.
 
 🚧 Coming Soon
@@ -119,11 +119,12 @@ An intelligent irrigation system using IoT sensors and automation to optimize wa
 ---
 
 ### 📊 Capacitor Monitoring Lab Report
-A project integrating **electronics measurement and data analysis**.
+
+A project integrating electronics measurement and data analysis.
 
 ---
 
-# 🔢 Visitor Counter
+## 🔢 Visitor Counter
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tabib-arham&color=blue&style=for-the-badge"/>
@@ -131,4 +132,4 @@ A project integrating **electronics measurement and data analysis**.
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ If you like my work, consider giving a **star ⭐ to my repositories!**
