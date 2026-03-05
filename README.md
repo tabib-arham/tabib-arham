@@ -72,13 +72,13 @@ Currently exploring:
 
 <p align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=tabib-arham&show_icons=true&theme=radical&rank_icon=github"/>
+<img width="390" src="https://tabib-github-readme-stats.vercel.app/api?username=tabib-arham&show_icons=true&theme=radical&rank_icon=github"/>
 
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=tabib-arham&theme=radical"/>
 
 <br>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-arham&layout=compact&theme=radical"/>
+<img width="325" src="https://tabib-github-readme-stats.vercel.app/api/top-langs/?username=tabib-arham&layout=compact&theme=radical"/>
 
 </p>
 
